@@ -1,0 +1,1 @@
+jmeter -n -t /Users/naresh/git-workspace/jmeter-performance-testing/list-users-rest-performance.jmx  -l /Users/naresh/git-workspace/jmeter-performance-testing/list-users-rest-performance.jtl -e -o /Users/naresh/git-workspace/jmeter-performance-testing/list-users-results
