@@ -1,6 +1,6 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1587289718004,6289,list-users-https-request,200,OK,rest-performance-thread-group 1-2,text,true,,1871,131,30,30,https://reqres.in/api/users?delay=5,6285,0,496
 1587289718838,5455,list-users-https-request,200,OK,rest-performance-thread-group 1-16,text,true,,1871,131,30,30,https://reqres.in/api/users?delay=5,5451,0,21
+1587289718004,6289,list-users-https-request,200,OK,rest-performance-thread-group 1-2,text,true,,1871,131,30,30,https://reqres.in/api/users?delay=5,6285,0,496
 1587289718235,6058,list-users-https-request,200,OK,rest-performance-thread-group 1-7,text,true,,1871,131,30,30,https://reqres.in/api/users?delay=5,6054,0,265
 1587289718772,5521,list-users-https-request,200,OK,rest-performance-thread-group 1-15,text,true,,1871,131,30,30,https://reqres.in/api/users?delay=5,5516,0,20
 1587289718910,5383,list-users-https-request,200,OK,rest-performance-thread-group 1-17,text,true,,1871,131,30,30,https://reqres.in/api/users?delay=5,5379,0,21
